@@ -1,0 +1,3 @@
+CREATE SCHEMA IF NOT EXISTS ormlearn;
+USE ormlearn;
+CREATE TABLE employee(id INT PRIMARY KEY, name VARCHAR(50));
