@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.btn-light {
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  margin: 5px;
+}
+
+.btn-dark {
+  background-color: black;
+  color: white;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  margin: 5px;
+}
